@@ -1,4 +1,4 @@
-* Patrik Molnár Diel 1.- Blikanie */ 
+/*Patrik Molnár Diel 1.- Blikanie */ 
 int led=8; 
 
 void setup(){
